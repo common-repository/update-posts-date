@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Update Posts Date\n"
+"POT-Creation-Date: 2023-09-26 09:47+0300\n"
+"PO-Revision-Date: 2023-09-26 09:49+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: update-posts-date.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: update-posts-date.php:39 update-posts-date.php:329
+msgid "Update Posts Date"
+msgstr "تحديث تاريخ النشر"
+
+#: update-posts-date.php:60
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: update-posts-date.php:174
+msgid "Originally posted"
+msgstr "تاريخ النشر الأصلي"
+
+#: update-posts-date.php:233
+msgid "You do not have sufficient permissions to access this page."
+msgstr "غير مسموح لك الدخول لهذه الصفحة."
+
+#: update-posts-date.php:239
+msgid "Sorry, your nonce did not verify."
+msgstr "عذرا.. كود الحماية غير متطابق."
+
+#: update-posts-date.php:282
+msgid "Options Updated."
+msgstr "تم تحديث البيانات."
+
+#: update-posts-date.php:330
+msgid ""
+"Posts on your site will be republished based on the conditions you specify "
+"below."
+msgstr "سيتم إعادة نشر المقالات على حسب الخيارات التي قمت بتحديثها أدناه."
+
+#: update-posts-date.php:331
+msgid ""
+"A republished post will have its date reset to the current date and so it "
+"will appear in feeds, on your front page and at the top of archive pages."
+msgstr ""
+"سيتم إعادة تعيين تاريخ المقالة إلى التاريخ الحالي وبالتالي سيظهر في الخلاصات "
+"وعلى صفحتك الأولى وفي أعلى صفحات الأرشيف."
+
+#: update-posts-date.php:332
+msgid "WARNING"
+msgstr "تحذير"
+
+#: update-posts-date.php:332
+msgid "If your permalinks contain dates, disable this plugin immediately."
+msgstr ""
+"إذا كانت الروابط الدائمة الخاصة بك تحتوي على تواريخ، فقم بتعطيل هذه الإضافة "
+"حتى على الفور."
+
+#: update-posts-date.php:343
+msgid "Minimum Interval Between Post Republishing"
+msgstr "للفاصل الزمني بين كل إعادة النشر"
+
+#: update-posts-date.php:346
+msgid "Minute"
+msgstr "دقيقة"
+
+#: update-posts-date.php:347 update-posts-date.php:348
+msgid "Minutes"
+msgstr "دقائق"
+
+#: update-posts-date.php:349 update-posts-date.php:365
+msgid "Hour"
+msgstr "ساعة"
+
+#: update-posts-date.php:350 update-posts-date.php:351
+#: update-posts-date.php:352 update-posts-date.php:353
+#: update-posts-date.php:366 update-posts-date.php:367
+#: update-posts-date.php:368 update-posts-date.php:369
+msgid "Hours"
+msgstr "ساعات"
+
+#: update-posts-date.php:354 update-posts-date.php:355
+#: update-posts-date.php:356
+msgid "days"
+msgstr "أيام"
+
+#: update-posts-date.php:362
+msgid "Randomness Interval (added to minimum interval)"
+msgstr "الفاصل الزمني العشوائي (يضاف إلى الحد الأدنى للفاصل الزمني)"
+
+#: update-posts-date.php:375
+msgid "Post age before eligible for republishing"
+msgstr "عمر المقالة المسموح لها بإعادة النشر"
+
+#: update-posts-date.php:378 update-posts-date.php:379
+#: update-posts-date.php:380 update-posts-date.php:381
+#: update-posts-date.php:382 update-posts-date.php:383
+#: update-posts-date.php:384
+msgid "Days"
+msgstr "أيام"
+
+#: update-posts-date.php:390
+msgid ""
+"Republish post to position (choosing the 2nd position will leave the most "
+"recent post in place)"
+msgstr ""
+"موضع المقالة التي أعيد نشرها (اختيار الخيار  الثاني سيؤدي إلى ترك المنشور "
+"الأحدث في مكانه)"
+
+#: update-posts-date.php:393
+msgid "1st Position"
+msgstr "الموضع الأول"
+
+#: update-posts-date.php:394
+msgid "2nd Position"
+msgstr "الموضع الثاني"
+
+#: update-posts-date.php:400
+msgid "Show original publication date at post end?"
+msgstr "عرض تاريخ المقالة الأصلي"
+
+#: update-posts-date.php:403
+msgid "Hide"
+msgstr "إخفاء"
+
+#: update-posts-date.php:404
+msgid "Top"
+msgstr "في بداية المقالة"
+
+#: update-posts-date.php:405
+msgid "End"
+msgstr "في نهاية المقالة"
+
+#: update-posts-date.php:411
+msgid "Select categories to omit from republishing"
+msgstr "حدد الأقسام التي تريد عزلها من إعادة النشر"
+
+#: update-posts-date.php:421
+msgid "Update Options"
+msgstr "تحديث الخيارات"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://edc.org.kw"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Update posts date automatically by setting the date to the current date."
+msgstr "تحديث تاريخ المقالات تلقائيًا عن طريق ضبط التاريخ على التاريخ الحالي."
+
+#. Author of the plugin/theme
+msgid "EDC Dev Team"
+msgstr "فريق التطوير - لجنة الدعوة الإلكترونية"

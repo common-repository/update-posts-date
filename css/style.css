@@ -1,0 +1,17 @@
+#updp-items {
+	padding: 0 15px;
+}
+
+#updp-items ul {
+    clear: both;
+    display: block;
+}
+
+#updp-items li {
+    width: 375px;
+    display: block;
+    float: left;
+    margin: 0px;
+	padding-top: 5px;
+    padding-left: 30px;
+}
